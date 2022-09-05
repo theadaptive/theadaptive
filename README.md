@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @theadaptive
 - 👀 I’m interested in building Node and Electron apps to: 
      - Simplify the process of uploading stock photos, videos, and audio.
-     - Create music experience apps, like "Sleep Music" and "Chill Moods" with controls for visual themes/interactive playlists.
+     - Create audiovisual apps, like "Sleep Music" and "Chill Moods" with controls for visual themes/interactive playlists.
